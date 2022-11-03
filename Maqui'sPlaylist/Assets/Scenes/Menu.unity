@@ -1258,9 +1258,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1191223665}
-        m_TargetAssemblyTypeName: toggle, Assembly-CSharp
-        m_MethodName: OnOff
-        m_Mode: 1
+        m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
+        m_MethodName: ToggleAudio
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1282,7 +1282,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8885f61e1119de14baad5ee532c4b825, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  muteOn: 0
+  parameterName: ToggleMixer
+  audioToggle: {fileID: 1191223664}
+  audioMixer: {fileID: 24100000, guid: 4c3ef68c26e353f4bb41c210fa1ce010, type: 2}
 --- !u!1 &1277208483
 GameObject:
   m_ObjectHideFlags: 0
