@@ -5,15 +5,34 @@ using UnityEngine.UI;
 
 public class Lyrics : MonoBehaviour
 {
-    public List<Text> lyricText;
-    public List<float> timeStamp;
-    void Start()
+    public Text lyricPortion;
+    public string[] lyrics;
+    public float timeStamp = 0;
+    public float timeSpeed;
+    public float timeProgress;
+
+    private void Start()
     {
-        
+        IncrementProgress(2.59f);
+    }
+    void Update()
+    {
+        if (timeStamp < timeProgress)
+        {
+            timeStamp += timeSpeed * Time.deltaTime;
+        }
     }
 
-    public void LyricsTimeStamp()
+    public void IncrementProgress(float newProgress)
     {
-        
+        timeProgress = timeStamp + newProgress;
+    }
+
+    public void UpdateLyrics()
+    {
+        if (timeStamp == 0.2f)
+        {
+            lyricPortion.text = lyrics[0];
+        }
     }
 }

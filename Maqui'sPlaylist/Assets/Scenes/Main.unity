@@ -234,10 +234,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7b6161764a1c634e9305521c11a5c15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lyricText:
-  - {fileID: 0}
-  timeStamp:
-  - 0
+  lyricPortion: {fileID: 0}
+  lyrics: []
+  timeStamp: 0
+  timeSpeed: 0
+  timeProgress: 0
 --- !u!4 &5945404
 Transform:
   m_ObjectHideFlags: 0
@@ -1047,6 +1048,7 @@ GameObject:
   - component: {fileID: 1250874497}
   - component: {fileID: 1250874499}
   - component: {fileID: 1250874498}
+  - component: {fileID: 1250874500}
   m_Layer: 5
   m_Name: lyricsText
   m_TagString: Untagged
@@ -1106,7 +1108,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 
 --- !u!222 &1250874499
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1115,6 +1117,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1250874496}
   m_CullTransparentMesh: 1
+--- !u!114 &1250874500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250874496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7b6161764a1c634e9305521c11a5c15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lyricPortion: {fileID: 1250874498}
+  lyrics:
+  - holo
+  - leehi
+  timeStamp: 0
+  timeSpeed: 0.015
+  timeProgress: 0
 --- !u!1 &1439109049
 GameObject:
   m_ObjectHideFlags: 0
@@ -1127,7 +1148,7 @@ GameObject:
   - component: {fileID: 1439109052}
   - component: {fileID: 1439109051}
   m_Layer: 5
-  m_Name: Slider
+  m_Name: SongSlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
