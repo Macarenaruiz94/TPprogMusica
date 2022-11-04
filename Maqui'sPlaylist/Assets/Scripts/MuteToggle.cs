@@ -5,12 +5,22 @@ using UnityEngine.UI;
 
 public class MuteToggle : MonoBehaviour
 {
-    public void MuteUpdate(bool muted)
+    public bool isMuted;
+
+    private void Start()
     {
-        if (muted == true)
-        {
-            AudioListener.volume = 0;
-        }
-        else AudioListener.volume = 1;
+        isMuted = false;
+    }
+    public void MuteUpdate()
+    {
+        isMuted = !isMuted;
+        AudioListener.pause = isMuted;
+
+        SaveMuteData();
+    }
+
+    public void SaveMuteData()
+    {
+        PlayerPrefs.SetInt("AudioMute", (isMuted ? 1 : 0));
     }
 }
