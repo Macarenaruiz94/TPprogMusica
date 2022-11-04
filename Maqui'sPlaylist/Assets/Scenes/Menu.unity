@@ -1282,7 +1282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8885f61e1119de14baad5ee532c4b825, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parameterName: ToggleMixer
+  parameterName: AudioSong
   audioToggle: {fileID: 1191223664}
   audioMixer: {fileID: 24100000, guid: 4c3ef68c26e353f4bb41c210fa1ce010, type: 2}
 --- !u!1 &1277208483
@@ -1651,6 +1651,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1750293719}
   - component: {fileID: 1750293720}
+  - component: {fileID: 1750293721}
   m_Layer: 5
   m_Name: volumeSlider
   m_TagString: Untagged
@@ -1730,7 +1731,33 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1750293721}
+        m_TargetAssemblyTypeName: VolumeSlider, Assembly-CSharp
+        m_MethodName: VolumeUpdate
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1750293721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1750293718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21bad858be7ea349aba383a2e718a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slider: {fileID: 1750293720}
+  sliderValue: 0
 --- !u!1 &1831299331
 GameObject:
   m_ObjectHideFlags: 0
