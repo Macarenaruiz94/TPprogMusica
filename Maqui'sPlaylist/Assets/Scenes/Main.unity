@@ -239,7 +239,9 @@ MonoBehaviour:
   - {fileID: 1280243709}
   - {fileID: 67504944}
   - {fileID: 1537329328}
-  timeStamp: 0
+  timeStamp:
+  - 0.1
+  timer: 0
   timeSpeed: 0.015
   timeProgress: 3.01
 --- !u!4 &5945404
