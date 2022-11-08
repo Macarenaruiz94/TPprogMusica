@@ -344,7 +344,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 9.016666666666667
+    m_Start: 8.316666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -5198611526402175542}
     m_Duration: 3.283333333333335
@@ -413,7 +413,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 12.950000000000001
+    m_Start: 12.25
     m_ClipIn: 0
     m_Asset: {fileID: -1389298212852367404}
     m_Duration: 2.9333333333333336
@@ -482,7 +482,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 17.083333333333307
+    m_Start: 16.383333333333308
     m_ClipIn: 0
     m_Asset: {fileID: -3391077973599167098}
     m_Duration: 3.5500000000000007
@@ -533,7 +533,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 21.233333333333306
+    m_Start: 20.533333333333307
     m_ClipIn: 0
     m_Asset: {fileID: 1980020804057890778}
     m_Duration: 2.5833333333333357
@@ -584,7 +584,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 23.81666666666664
+    m_Start: 23.116666666666642
     m_ClipIn: 0
     m_Asset: {fileID: -8769654531736827625}
     m_Duration: 4.916666666666664
@@ -635,7 +635,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 32.866666666666646
+    m_Start: 32.16666666666664
     m_ClipIn: 0
     m_Asset: {fileID: -8073708601210429493}
     m_Duration: 6.616666666666667
@@ -704,7 +704,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 41.29999999999998
+    m_Start: 40.59999999999998
     m_ClipIn: 0
     m_Asset: {fileID: 6746367567463185810}
     m_Duration: 4.264623478831105
@@ -755,7 +755,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 45.56462347883108
+    m_Start: 44.86462347883108
     m_ClipIn: 0
     m_Asset: {fileID: -4585870051514507173}
     m_Duration: 2.433333333333337
@@ -806,7 +806,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 47.99795681216442
+    m_Start: 47.297956812164415
     m_ClipIn: 0
     m_Asset: {fileID: -2976248950066747093}
     m_Duration: 5.018709854502227
@@ -875,7 +875,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 56.359455371865366
+    m_Start: 55.65945537186536
     m_ClipIn: 0
     m_Asset: {fileID: 4245899194974682796}
     m_Duration: 4.6249699967292415
@@ -926,7 +926,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 60.9844253685946
+    m_Start: 60.2844253685946
     m_ClipIn: 0
     m_Asset: {fileID: -3946076683982028195}
     m_Duration: 2.8239514967426658
@@ -959,7 +959,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 63.999999999999986
+    m_Start: 63.29999999999998
     m_ClipIn: 0
     m_Asset: {fileID: 755517938492138889}
     m_Duration: 3.032164865049225
@@ -1028,7 +1028,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 67.03216486504921
+    m_Start: 66.33216486504922
     m_ClipIn: 0
     m_Asset: {fileID: 1055530580655805954}
     m_Duration: 2.010378295555711
@@ -1079,7 +1079,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 72.16666666666666
+    m_Start: 71.46666666666667
     m_ClipIn: 0
     m_Asset: {fileID: -5807744480917089689}
     m_Duration: 5.25
@@ -1130,7 +1130,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 69.31666666666665
+    m_Start: 68.61666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 6228960216849700026}
     m_Duration: 2.5333333333333314
@@ -1199,7 +1199,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 80.94999999999999
+    m_Start: 80.25
     m_ClipIn: 0
     m_Asset: {fileID: 7845187698443754902}
     m_Duration: 3.9499999999999886
@@ -1232,7 +1232,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 84.94999999999999
+    m_Start: 84.25
     m_ClipIn: 0
     m_Asset: {fileID: 1999294749692327575}
     m_Duration: 3.1499999999999915
@@ -1283,7 +1283,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 88.94999999999999
+    m_Start: 88.25
     m_ClipIn: 0
     m_Asset: {fileID: 7755236543454961804}
     m_Duration: 3.763801164459423
@@ -1334,7 +1334,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 93.01666666666665
+    m_Start: 92.31666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 2510415678120740381}
     m_Duration: 4.1177573521311075
@@ -1385,7 +1385,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 97.19999999999999
+    m_Start: 96.5
     m_ClipIn: 0
     m_Asset: {fileID: -5923993011630134884}
     m_Duration: 7.216666666666669
@@ -1436,7 +1436,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 105.16666666666666
+    m_Start: 104.46666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 4499931890892738455}
     m_Duration: 3.5
@@ -1505,7 +1505,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 108.8
+    m_Start: 108.10000000000001
     m_ClipIn: 0
     m_Asset: {fileID: 8738389261763348335}
     m_Duration: 2.6333333333333258
@@ -1556,7 +1556,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 111.86666666666665
+    m_Start: 111.16666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -8302091217020445754}
     m_Duration: 6.833333333333343
@@ -1589,7 +1589,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 120.53333333333332
+    m_Start: 119.83333333333333
     m_ClipIn: 0
     m_Asset: {fileID: -4117346783550819978}
     m_Duration: 4.806564987854408
@@ -1640,7 +1640,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 125.33989832118758
+    m_Start: 124.63989832118759
     m_ClipIn: 0
     m_Asset: {fileID: -5891914994832395203}
     m_Duration: 2.8239514967426658
@@ -1673,7 +1673,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 128.35547295259278
+    m_Start: 127.65547295259279
     m_ClipIn: 0
     m_Asset: {fileID: -1354740705674438690}
     m_Duration: 2.8111937140737524
@@ -1742,7 +1742,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 131.38763781764197
+    m_Start: 130.68763781764198
     m_ClipIn: 0
     m_Asset: {fileID: -409075450687761418}
     m_Duration: 1.7956955156912215
@@ -1793,7 +1793,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 133.43333333333322
+    m_Start: 132.73333333333323
     m_ClipIn: 0
     m_Asset: {fileID: -1469756056337661945}
     m_Duration: 2.666666666666657
@@ -1862,7 +1862,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 144.39999999999986
+    m_Start: 143.69999999999987
     m_ClipIn: 0
     m_Asset: {fileID: -2344014389032621704}
     m_Duration: 6.083333333333314
@@ -1931,7 +1931,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 136.5499999999999
+    m_Start: 135.8499999999999
     m_ClipIn: 0
     m_Asset: {fileID: -3495489475865810160}
     m_Duration: 5.399999999999977
@@ -2000,7 +2000,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 153.41666666666652
+    m_Start: 152.71666666666653
     m_ClipIn: 0
     m_Asset: {fileID: -6255662886525824402}
     m_Duration: 3.283333333333335
@@ -2069,7 +2069,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 157.34999999999985
+    m_Start: 156.64999999999986
     m_ClipIn: 0
     m_Asset: {fileID: 4974958800115378741}
     m_Duration: 3.0500000000000114
@@ -2138,7 +2138,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 161.14999999999986
+    m_Start: 160.44999999999987
     m_ClipIn: 0
     m_Asset: {fileID: -2103067062301979506}
     m_Duration: 3.5500000000000007
@@ -2189,7 +2189,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 165.3333333333332
+    m_Start: 164.6333333333332
     m_ClipIn: 0
     m_Asset: {fileID: 3693744787365792044}
     m_Duration: 2.6499999999999773
@@ -2222,7 +2222,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 167.9999999999999
+    m_Start: 167.2999999999999
     m_ClipIn: 0
     m_Asset: {fileID: -7665681087605835685}
     m_Duration: 5.300000000000011
@@ -2273,7 +2273,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 173.2999999999999
+    m_Start: 172.5999999999999
     m_ClipIn: 0
     m_Asset: {fileID: -1878219217715202988}
     m_Duration: 0.09999999999999432
@@ -2495,7 +2495,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 9.016666666666667
+    m_Start: 8.316666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -98249197929433683}
     m_Duration: 3.283333333333335
@@ -2564,7 +2564,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 12.950000000000001
+    m_Start: 12.25
     m_ClipIn: 0
     m_Asset: {fileID: -8811568938870729818}
     m_Duration: 2.9333333333333336
@@ -2633,7 +2633,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 17.083333333333307
+    m_Start: 16.383333333333308
     m_ClipIn: 0
     m_Asset: {fileID: 8498366058315696547}
     m_Duration: 3.5500000000000007
@@ -2684,7 +2684,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 21.233333333333306
+    m_Start: 20.533333333333307
     m_ClipIn: 0
     m_Asset: {fileID: 7840147192298099709}
     m_Duration: 2.5833333333333357
@@ -2735,7 +2735,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 23.81666666666664
+    m_Start: 23.116666666666642
     m_ClipIn: 0
     m_Asset: {fileID: 5607991154801202371}
     m_Duration: 4.916666666666664
@@ -2786,7 +2786,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 32.866666666666646
+    m_Start: 32.16666666666664
     m_ClipIn: 0
     m_Asset: {fileID: 3889599252656200859}
     m_Duration: 6.616666666666667
@@ -2855,7 +2855,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 41.29999999999998
+    m_Start: 40.59999999999998
     m_ClipIn: 0
     m_Asset: {fileID: -1748191214455729035}
     m_Duration: 4.264623478831105
@@ -2906,7 +2906,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 45.56462347883108
+    m_Start: 44.86462347883108
     m_ClipIn: 0
     m_Asset: {fileID: -7060609038453363335}
     m_Duration: 2.433333333333337
@@ -2957,7 +2957,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 47.99795681216442
+    m_Start: 47.297956812164415
     m_ClipIn: 0
     m_Asset: {fileID: 2099732026842370842}
     m_Duration: 5.018709854502227
@@ -3026,7 +3026,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 56.359455371865366
+    m_Start: 55.65945537186536
     m_ClipIn: 0
     m_Asset: {fileID: -1784922838677832378}
     m_Duration: 4.6249699967292415
@@ -3077,7 +3077,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 60.9844253685946
+    m_Start: 60.2844253685946
     m_ClipIn: 0
     m_Asset: {fileID: 7485238821474431757}
     m_Duration: 2.8239514967426658
@@ -3110,7 +3110,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 63.999999999999986
+    m_Start: 63.29999999999998
     m_ClipIn: 0
     m_Asset: {fileID: -1013224123094788093}
     m_Duration: 3.032164865049225
@@ -3179,7 +3179,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 67.03216486504921
+    m_Start: 66.33216486504922
     m_ClipIn: 0
     m_Asset: {fileID: 70005651286551487}
     m_Duration: 2.010378295555711
@@ -3230,7 +3230,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 69.31666666666665
+    m_Start: 68.61666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 5994375374434433228}
     m_Duration: 2.5333333333333314
@@ -3299,7 +3299,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 72.16666666666666
+    m_Start: 71.46666666666667
     m_ClipIn: 0
     m_Asset: {fileID: -1310918877040298038}
     m_Duration: 5.25
@@ -3350,7 +3350,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 80.94999999999999
+    m_Start: 80.25
     m_ClipIn: 0
     m_Asset: {fileID: 7148175539626581738}
     m_Duration: 3.9499999999999886
@@ -3383,7 +3383,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 84.94999999999999
+    m_Start: 84.25
     m_ClipIn: 0
     m_Asset: {fileID: -6225113822722036263}
     m_Duration: 3.1499999999999915
@@ -3434,7 +3434,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 88.94999999999999
+    m_Start: 88.25
     m_ClipIn: 0
     m_Asset: {fileID: -2005374080181376177}
     m_Duration: 3.763801164459423
@@ -3485,7 +3485,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 93.01666666666665
+    m_Start: 92.31666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 5199331933037732515}
     m_Duration: 4.1177573521311075
@@ -3536,7 +3536,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 97.19999999999999
+    m_Start: 96.5
     m_ClipIn: 0
     m_Asset: {fileID: -434454168718384401}
     m_Duration: 7.216666666666669
@@ -3587,7 +3587,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 105.16666666666666
+    m_Start: 104.46666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 1169135718489684847}
     m_Duration: 3.5
@@ -3656,7 +3656,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 108.8
+    m_Start: 108.10000000000001
     m_ClipIn: 0
     m_Asset: {fileID: -120071798112802437}
     m_Duration: 2.6333333333333258
@@ -3707,7 +3707,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 111.86666666666665
+    m_Start: 111.16666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 4609570346149421548}
     m_Duration: 6.833333333333343
@@ -3740,7 +3740,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 120.53333333333332
+    m_Start: 119.83333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 3025913358789645604}
     m_Duration: 4.806564987854408
@@ -3791,7 +3791,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 125.33989832118758
+    m_Start: 124.63989832118759
     m_ClipIn: 0
     m_Asset: {fileID: 7150382171633377966}
     m_Duration: 2.8239514967426658
@@ -3824,7 +3824,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 128.35547295259278
+    m_Start: 127.65547295259279
     m_ClipIn: 0
     m_Asset: {fileID: 9016685927259698118}
     m_Duration: 2.8111937140737524
@@ -3893,7 +3893,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 131.38763781764197
+    m_Start: 130.68763781764198
     m_ClipIn: 0
     m_Asset: {fileID: -3267434180581021718}
     m_Duration: 1.7956955156912215
@@ -3944,7 +3944,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 133.43333333333322
+    m_Start: 132.73333333333323
     m_ClipIn: 0
     m_Asset: {fileID: 1012646771091225059}
     m_Duration: 2.666666666666657
@@ -4013,7 +4013,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 136.5499999999999
+    m_Start: 135.8499999999999
     m_ClipIn: 0
     m_Asset: {fileID: 3384072615386884181}
     m_Duration: 5.399999999999977
@@ -4082,7 +4082,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 144.39999999999986
+    m_Start: 143.69999999999987
     m_ClipIn: 0
     m_Asset: {fileID: 4273974704503683381}
     m_Duration: 6.083333333333314
@@ -4151,7 +4151,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 153.41666666666652
+    m_Start: 152.71666666666653
     m_ClipIn: 0
     m_Asset: {fileID: 4878627775705662381}
     m_Duration: 3.283333333333335
@@ -4220,7 +4220,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 157.34999999999985
+    m_Start: 156.64999999999986
     m_ClipIn: 0
     m_Asset: {fileID: -2837120074164228287}
     m_Duration: 3.0500000000000114
@@ -4289,7 +4289,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 161.14999999999986
+    m_Start: 160.44999999999987
     m_ClipIn: 0
     m_Asset: {fileID: -4105075507564556218}
     m_Duration: 3.5500000000000007
@@ -4340,7 +4340,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 165.3333333333332
+    m_Start: 164.6333333333332
     m_ClipIn: 0
     m_Asset: {fileID: 1575061541323119774}
     m_Duration: 2.6499999999999773
@@ -4373,7 +4373,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 167.9999999999999
+    m_Start: 167.2999999999999
     m_ClipIn: 0
     m_Asset: {fileID: 5172852465872211911}
     m_Duration: 5.300000000000011
@@ -4424,7 +4424,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: LyricClip
   - m_Version: 1
-    m_Start: 173.2999999999999
+    m_Start: 172.5999999999999
     m_ClipIn: 0
     m_Asset: {fileID: -5290295092147031113}
     m_Duration: 0.09999999999999432
